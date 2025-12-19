@@ -298,15 +298,7 @@ cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_INTERPROCEDURAL_OPTIMIZATION=ON
 ---
 
 
-## 🙏 Acknowledgments
 
-- Inspired by classic compiler texts such as:
-  - *Compilers: Principles, Techniques, and Tools* (the “Dragon Book”)
-  - *Crafting Interpreters*
-- Built with modern C++ best practices.
-- Thanks to all current and future contributors helping to improve **SimpleLang**.
-
----
 
 
 ## 📈 Roadmap
@@ -324,4 +316,5 @@ Planned and in-progress work includes:
 - [ ] IDE / Editor Integration (syntax highlighting, LSP, etc.)
 
 ---
+
 
