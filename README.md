@@ -270,7 +270,6 @@ cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_INTERPROCEDURAL_OPTIMIZATION=ON
 
 ## 🤝 Contributing
 
-Contributions are welcome!
 
 1. Fork the repository.
 2. Create a feature branch:  
@@ -298,12 +297,6 @@ Contributions are welcome!
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**.  
-See the [`LICENSE`](LICENSE) file for full details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -315,13 +308,6 @@ See the [`LICENSE`](LICENSE) file for full details.
 
 ---
 
-## 📞 Support
-
-- Issues & bugs: GitHub **Issues**
-- Feature requests & questions: GitHub **Discussions** (if enabled)
-- Email : `medsaidghoulam@example.com`
-
----
 
 ## 📈 Roadmap
 
@@ -338,3 +324,4 @@ Planned and in-progress work includes:
 - [ ] IDE / Editor Integration (syntax highlighting, LSP, etc.)
 
 ---
+
